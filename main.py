@@ -1,2 +1,2 @@
-name = input('What is your name?\n')
+name = julian
 print ('Hi, %s.' % name)
